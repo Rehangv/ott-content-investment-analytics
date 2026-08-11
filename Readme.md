@@ -334,15 +334,6 @@ pip install requests pandas python-dotenv mysql-connector-python
 - All relationships and DAX measures are pre-configured
 - All DAX measures are documented in the README above
 
----
-
-## Resume Bullet Points
-
-- Engineered end-to-end data pipeline collecting 5,625+ real-time records via TMDB API with automated pagination, JSON parsing and Python-based cleaning across movies and TV shows
-- Conducted 8 Excel pivot table analyses using Power Query and DAX identifying Sci-Fi & Adventure as sweet spot genres scoring above median on both popularity and quality
-- Wrote 8 MySQL queries using window functions, HAVING, UNION ALL and JOINs — uncovering Hindi and Tamil as highest popularity languages despite representing under 2% of global content volume
-- Built 4-page interactive Power BI dashboard with 9 DAX measures, relationship modelling and content-type slicers enabling dynamic Movie vs TV Show comparison
-- Identified Malayalam and Bengali as highest quality Indian language content (7.0 avg vote) despite critically low production volume — framed as primary OTT first-mover investment opportunity
 
 ---
 
